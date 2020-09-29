@@ -1,17 +1,21 @@
-﻿// using System;
+﻿using System;
+using AccessModifierAndMethods;
 
-// namespace CSharpBasics
-// {
-//     class Program
-//     {
-//         static void Main(string[] args)
-//         {
-//             // Console.WriteLine("Enter your name:");
-//             // string name = Console.ReadLine();
-//             // Console.WriteLine("Hi, I am " + name);
+namespace CSharpBasics
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            AccessModifier accessModifier = new AccessModifier();
+            accessModifier.DoSomething();
 
-//             SelectionStatement selectionstatement = new SelectionStatement();
-//             selectionstatement.LearnSwitchCases();
-//         }
-//     }
-// }
+            
+            Person person = new Person();
+            person.name = "Bijen";
+            person.Age = 67;
+
+            var x = person.Adress;
+        }
+    }
+}
