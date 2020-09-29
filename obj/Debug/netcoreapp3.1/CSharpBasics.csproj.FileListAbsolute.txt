@@ -1,0 +1,26 @@
+D:\Study\.net practice\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.exe
+D:\Study\.net practice\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.deps.json
+D:\Study\.net practice\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.runtimeconfig.json
+D:\Study\.net practice\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.runtimeconfig.dev.json
+D:\Study\.net practice\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.dll
+D:\Study\.net practice\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.pdb
+D:\Study\.net practice\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.csprojAssemblyReference.cache
+D:\Study\.net practice\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.AssemblyInfoInputs.cache
+D:\Study\.net practice\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.AssemblyInfo.cs
+D:\Study\.net practice\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.csproj.CoreCompileInputs.cache
+D:\Study\.net practice\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.dll
+D:\Study\.net practice\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.pdb
+D:\Study\.net practice\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.genruntimeconfig.cache
+D:\NJB\files\csit\dotnet\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.exe
+D:\NJB\files\csit\dotnet\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.deps.json
+D:\NJB\files\csit\dotnet\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.runtimeconfig.json
+D:\NJB\files\csit\dotnet\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.runtimeconfig.dev.json
+D:\NJB\files\csit\dotnet\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.dll
+D:\NJB\files\csit\dotnet\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.pdb
+D:\NJB\files\csit\dotnet\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.csprojAssemblyReference.cache
+D:\NJB\files\csit\dotnet\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.AssemblyInfoInputs.cache
+D:\NJB\files\csit\dotnet\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.AssemblyInfo.cs
+D:\NJB\files\csit\dotnet\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.csproj.CoreCompileInputs.cache
+D:\NJB\files\csit\dotnet\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.dll
+D:\NJB\files\csit\dotnet\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.pdb
+D:\NJB\files\csit\dotnet\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.genruntimeconfig.cache
