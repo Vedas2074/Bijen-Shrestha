@@ -1,6 +1,6 @@
-class Person
+class Human
 {
-    byte age;
+    byte age = 23;
 
     public byte Age
     {

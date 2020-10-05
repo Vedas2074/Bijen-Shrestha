@@ -1,21 +1,15 @@
-﻿using System;
-using AccessModifierAndMethods;
+﻿using LearningClasses;
 
-namespace CSharpBasics
+class Program
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            AccessModifier accessModifier = new AccessModifier();
-            accessModifier.DoSomething();
+    static void Main2342()
+    {       
+        var person1 = new Person("Bijen", "Bhaktapur");
+        var person2 = new Person("Ram", "Bhaktapur", 23);
+        var person3 = new Person("Hari", "Thimi", 20);
 
-            
-            Person person = new Person();
-            person.name = "Bijen";
-            person.Age = 67;
+        var person4 = new Person();
+        
 
-            var x = person.Adress;
-        }
     }
 }
