@@ -1,5 +1,5 @@
 ﻿using LearningClasses;
-
+using System;
 class Program
 {
     static void Main2342()
@@ -10,6 +10,12 @@ class Program
 
         var person4 = new Person();
         
+        // implementing static
+        var x = Person.ScientificName;
+        Person.Do();
+        var y = Math.Sqrt(144);
 
+        var s1 = Calculator.Sum<int>(23,45);
+        var s2 = Calculator.Sum<decimal>(23234.34m,234.324m);
     }
 }
