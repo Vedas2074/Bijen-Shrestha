@@ -17,5 +17,10 @@ class Program
 
         var s1 = Calculator.Sum<int>(23,45);
         var s2 = Calculator.Sum<decimal>(23234.34m,234.324m);
+        Rectangle rectangle = new Rectangle();
+        rectangle.Length = 23.6;
+        rectangle.Breadth = 6.32;
+        var result = rectangle.GetArea();   
+    
     }
 }
