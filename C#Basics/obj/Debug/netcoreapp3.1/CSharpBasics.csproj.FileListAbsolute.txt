@@ -24,3 +24,9 @@ D:\NJB\files\csit\dotnet\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.cspro
 D:\NJB\files\csit\dotnet\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.dll
 D:\NJB\files\csit\dotnet\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.pdb
 D:\NJB\files\csit\dotnet\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.genruntimeconfig.cache
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\C#Basics\obj\Debug\netcoreapp3.1\CSharpBasics.csprojAssemblyReference.cache
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\C#Basics\obj\Debug\netcoreapp3.1\CSharpBasics.AssemblyInfoInputs.cache
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\C#Basics\obj\Debug\netcoreapp3.1\CSharpBasics.AssemblyInfo.cs
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\C#Basics\obj\Debug\netcoreapp3.1\CSharpBasics.csproj.CoreCompileInputs.cache
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\C#Basics\obj\Debug\netcoreapp3.1\CSharpBasics.dll
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\C#Basics\obj\Debug\netcoreapp3.1\CSharpBasics.pdb
