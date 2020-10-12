@@ -20,6 +20,7 @@ class Program
         
         // Inheritance example
         Rectangle rectangle = new Rectangle(23.6, 6.32);
+        Rectangle r = new Rectangle(25.6, 16.32);
         
         // {
         //     // object initializer
@@ -29,6 +30,9 @@ class Program
 
         // rectangle.Length = 23.6;
         // rectangle.Breadth = 6.32;
+
+        r.GetDiagonalLength();
+        
         var result = rectangle.GetArea();  
         rectangle.PrintDetails(); 
 
