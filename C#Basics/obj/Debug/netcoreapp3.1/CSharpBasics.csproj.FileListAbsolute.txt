@@ -30,3 +30,10 @@ D:\NJB\files\csit\dotnet\Bijen-Shrestha\C#Basics\obj\Debug\netcoreapp3.1\CSharpB
 D:\NJB\files\csit\dotnet\Bijen-Shrestha\C#Basics\obj\Debug\netcoreapp3.1\CSharpBasics.csproj.CoreCompileInputs.cache
 D:\NJB\files\csit\dotnet\Bijen-Shrestha\C#Basics\obj\Debug\netcoreapp3.1\CSharpBasics.dll
 D:\NJB\files\csit\dotnet\Bijen-Shrestha\C#Basics\obj\Debug\netcoreapp3.1\CSharpBasics.pdb
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\C#Basics\bin\Debug\netcoreapp3.1\CSharpBasics.exe
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\C#Basics\bin\Debug\netcoreapp3.1\CSharpBasics.deps.json
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\C#Basics\bin\Debug\netcoreapp3.1\CSharpBasics.runtimeconfig.json
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\C#Basics\bin\Debug\netcoreapp3.1\CSharpBasics.runtimeconfig.dev.json
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\C#Basics\bin\Debug\netcoreapp3.1\CSharpBasics.dll
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\C#Basics\bin\Debug\netcoreapp3.1\CSharpBasics.pdb
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\C#Basics\obj\Debug\netcoreapp3.1\CSharpBasics.genruntimeconfig.cache

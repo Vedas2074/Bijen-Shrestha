@@ -30,7 +30,7 @@ public class Rectangle : Shape
     {
         Console.WriteLine("Printing details for shape...");
         // string interpolation
-        Console.WriteLine($"Length: {Lenght}, Breadth: {Breadth}");
+        Console.WriteLine($"Length: {Length}, Breadth: {Breadth}");
         Console.WriteLine($"Area: {this.GetArea()}, Perimeter: {this.GetPerimeter()}");
         
     }
