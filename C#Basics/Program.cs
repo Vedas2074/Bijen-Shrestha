@@ -1,5 +1,7 @@
-﻿using LearningClasses;
+﻿using FileDirectoryHandling;
+using LearningClasses;
 using System;
+
 class Program
 {
     static void Main()
@@ -31,16 +33,23 @@ class Program
         // rectangle.Length = 23.6;
         // rectangle.Breadth = 6.32;
 
-        r.GetDiagonalLength();
+        // r.GetDiagonalLength();
         
-        var result = rectangle.GetArea();  
-        rectangle.PrintDetails(); 
+        // var result = rectangle.GetArea();  
+        // rectangle.PrintDetails(); 
 
-        Square s = new Square(34.56);
-        var resultSquare = s.GetPerimeter();
-        s.PrintDetails(); 
+        // Square s = new Square(34.56);
+        // var resultSquare = s.GetPerimeter();
+        // s.PrintDetails(); 
 
-        Circle c = new Circle();
-        c.Radius = 1.1;
+        // Circle c = new Circle();
+        // c.Radius = 1.1;
+
+        FileIO file = new FileIO();
+        file.LearnFileReading();
+        file.LearnFileWriting();
+        file.LearnDirectory();
+        file.LearnDirectoryInfo();
+
     }
 }

@@ -54,6 +54,11 @@ public class Square : Rectangle
 
 public class Circle : Shape
 {
+    public Circle (double r)
+    {
+        Radius = r;
+    }
+
     public double Radius { get; set; }
     public override double GetArea() => Math.PI * Radius * Radius;
     public override double GetPerimeter() => 2 * Math.PI * Radius;
@@ -76,6 +81,7 @@ class C : B
 {
 }
 
+// class => Is-a relationshipp, Interface => Has-a relationship
 class D: A, IX, IY
 {
 }

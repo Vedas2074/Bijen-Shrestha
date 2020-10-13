@@ -1,5 +1,5 @@
-using System
-using System.Linq
+using System;
+using System.Linq;
 
 namespace AccessModifierAndMethods
 {
@@ -7,7 +7,7 @@ namespace AccessModifierAndMethods
     {
         void PrintInfo()
         {
-            Console.Writeline("Printing something...");
+            Console.WriteLine("Printing something...");
             Multiply(4.6f, 7.5f);
             Sum(8.9,9.8);
 
@@ -15,23 +15,23 @@ namespace AccessModifierAndMethods
             Greet("shrestha");
 
             byte[] sequence = {4, 3, 2, 5, 6, 89};
-            (byte Minimum, byte Maximum) result = FindMinMax(sequence);
-            Console.Wtireline(result.Minimum);
+            //(byte Minimum, byte Maximum) result = FindMinMax(sequence);
+            //Console.WriteLine(result.Minimum);
 
-            PrintCustomerDetails(age: 57, name: "Bijen" address: "Thimi");
+            PrintCustomerDetails(age: 57, name: "Bijen", address: "Thimi");
         }
 
         void PrintSomething(string message)
         {
-            Console.Writeline(message);
+            Console.WriteLine(message);
         }
 
-        void Multiply(float firstNum, float secondNum)
+        float Multiply(float firstNum, float secondNum)
         {
             float product = firstNum * secondNum;
             return product;
         }   
-        void Multiply(float firstNum, float secondNum, float thirdNum)
+        float Multiply(float firstNum, float secondNum, float thirdNum)
         {
             float product = firstNum * secondNum * thirdNum;
             return product;
@@ -58,17 +58,17 @@ namespace AccessModifierAndMethods
         }
 
         //Returning Multiple values : using tuple
-        (byte, byte) FindMinMax(byte[] numbers)
-        {
-            byte max = numbers.Max();
-            byte min = numbers.MIN();
+        // (byte, byte) FindMinMax(byte[] numbers)
+        // {
+        //     byte max = numbers.Max();
+        //     byte min = numbers.MIN();
 
-            return (min, max);
-        }
+        //     return (min, max);
+        // }
 
         void PrintCustomerDetails(string name, string address, byte age)
         {
-            Console.Writeline($"{name}, {age}, {address}");
+            Console.WriteLine($"{name}, {age}, {address}");
         }
 
         float Subtract(float firstNum, float secondNum) => firstNum - secondNum;
