@@ -1,0 +1,13 @@
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\LINQ\obj\Debug\netcoreapp3.1\LINQ.csprojAssemblyReference.cache
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfoInputs.cache
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfo.cs
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\LINQ\obj\Debug\netcoreapp3.1\LINQ.csproj.CoreCompileInputs.cache
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\LINQ\bin\Debug\netcoreapp3.1\LINQ.exe
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\LINQ\bin\Debug\netcoreapp3.1\LINQ.deps.json
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.json
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.dev.json
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\LINQ\bin\Debug\netcoreapp3.1\LINQ.dll
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\LINQ\bin\Debug\netcoreapp3.1\LINQ.pdb
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\LINQ\obj\Debug\netcoreapp3.1\LINQ.dll
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\LINQ\obj\Debug\netcoreapp3.1\LINQ.pdb
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\LINQ\obj\Debug\netcoreapp3.1\LINQ.genruntimeconfig.cache

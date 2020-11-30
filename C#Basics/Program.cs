@@ -48,6 +48,7 @@ class Program
         FileIO file = new FileIO();
         file.LearnFileReading();
         file.LearnFileWriting();
+        
         file.LearnDirectory();
         file.LearnDirectoryInfo();
 
