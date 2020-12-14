@@ -35,3 +35,8 @@ D:\NJB\files\csit\dotnet\Bijen-Shrestha\EmployeeManagement\obj\Debug\netcoreapp3
 D:\NJB\files\csit\dotnet\Bijen-Shrestha\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.pdb
 D:\NJB\files\csit\dotnet\Bijen-Shrestha\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.genruntimeconfig.cache
 D:\NJB\files\csit\dotnet\Bijen-Shrestha\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.csproj.CopyComplete
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Department\Index.cshtml.g.cs
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Detail.cshtml.g.cs
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Hello.cshtml.g.cs
