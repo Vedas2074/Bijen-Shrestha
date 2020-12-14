@@ -6,8 +6,8 @@ public class Employee{
     public string FirstName { get;set;}
     public string LastName { get; set;}
     public string Address { get; set;}
-    public byte Age { get; set;}
-    public float Salary { get; set;}
+    public byte? Age { get; set;}
+    public float? Salary { get; set;}
      
      public static List<Employee> GetEmployee()
      {

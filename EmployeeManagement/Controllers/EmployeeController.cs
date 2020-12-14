@@ -21,5 +21,13 @@ namespace EmployeeManagement.Controllers{
         {
             return View();
         }
+
+        [HttpPost]
+        public string Create(Employee employee)
+        {
+
+            return "record";
+        }
+        
     }
 }

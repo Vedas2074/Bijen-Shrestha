@@ -18,12 +18,27 @@
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
                     <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Employee" asp-action="Index">Employee</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Department" asp-action="Index">Department</a>
-                        </li>
+                       
+                        <li class="nav-item dropdown">
+                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                              Employee
+                              </a>
+                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                             <a class="dropdown-item" href="/employee/create">Add</a>
+                             <a class="dropdown-item" href="/employee/index">Details</a>
+                             <div class="dropdown-divider"></div>
+                           </div>
+                         </li>
+                        <li class="nav-item dropdown">
+                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                              Department
+                              </a>
+                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                             <a class="dropdown-item" href="/department/add">Add Department</a>
+                             <a class="dropdown-item" href="/department/index">Department Details</a>
+                             <div class="dropdown-divider"></div>
+                           </div>
+                         </li>
                     </ul>
                 </div>
             </div>
