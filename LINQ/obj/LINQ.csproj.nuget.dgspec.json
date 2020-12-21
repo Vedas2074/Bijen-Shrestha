@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\LINQ\\LINQ.csproj": {}
+    "d:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\LINQ\\LINQ.csproj": {}
   },
   "projects": {
-    "D:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\LINQ\\LINQ.csproj": {
+    "d:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\LINQ\\LINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\LINQ\\LINQ.csproj",
+        "projectUniqueName": "d:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\LINQ\\LINQ.csproj",
         "projectName": "LINQ",
-        "projectPath": "D:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\LINQ\\LINQ.csproj",
+        "projectPath": "d:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\LINQ\\LINQ.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "D:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\LINQ\\obj\\",
+        "outputPath": "d:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\LINQ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"

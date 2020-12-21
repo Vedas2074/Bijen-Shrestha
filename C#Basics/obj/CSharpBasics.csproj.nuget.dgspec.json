@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\C#Basics\\CSharpBasics.csproj": {}
+    "d:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\C#Basics\\CSharpBasics.csproj": {}
   },
   "projects": {
-    "D:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\C#Basics\\CSharpBasics.csproj": {
+    "d:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\C#Basics\\CSharpBasics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\C#Basics\\CSharpBasics.csproj",
+        "projectUniqueName": "d:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\C#Basics\\CSharpBasics.csproj",
         "projectName": "CSharpBasics",
-        "projectPath": "D:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\C#Basics\\CSharpBasics.csproj",
+        "projectPath": "d:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\C#Basics\\CSharpBasics.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "D:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\C#Basics\\obj\\",
+        "outputPath": "d:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\C#Basics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
