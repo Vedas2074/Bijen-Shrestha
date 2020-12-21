@@ -14,26 +14,46 @@ namespace EmployeeManagement.Controllers{
         }
         public IActionResult Index()
         {   
-            var employees = db.Employees.ToList();
-            return View(employees);
-        }
-        public ActionResult Detail(int Id)
-        {
-            var employees = Employee.GetEmployee();
-            var employee=employees.FirstOrDefault(x=>x.Id==Id);
+            var employee = db.Employees.ToList();
             return View(employee);
         }
+
+        public ActionResult Detail(int Id)
+        {
+            var abc = db.Employees.Find(Id);
+            return View(abc);
+        }
+
+        [HttpGet]
         public ActionResult Create()
         {
             return View();
         }
 
         [HttpPost]
-        public string Create(Employee employee)
+        public ActionResult Create(Employee employee)
         {
-
-            return "record";
+            db.Employees.Add(employee);
+            db.SaveChanges();
+            return RedirectToAction("Index");
         }
         
+        [HttpGet]
+        public ActionResult Edit(int Id)
+        {
+            var abcd = db.Employees.Find(Id);
+            return View(abcd);
+        }
+
+
+        [HttpPost]
+        public ActionResult Edit(Employee employee)
+        {
+            db.Employees.Attach(employee);
+            db.Employees.Update(employee);
+            db.SaveChanges();
+            return RedirectToAction("Index");
+        }
+
     }
 }

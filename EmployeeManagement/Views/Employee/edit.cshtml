@@ -1,5 +1,6 @@
 @model Employee
-<form action="/employee/Create" method="POST">
+<form action="/employee/edit" method="POST">
+    <input type="hidden" asp-for="Id" />
       <div class="container-fluid">
         <div class="row">
           <!-- left column -->
@@ -7,7 +8,7 @@
             <!-- general form elements -->
             <div class="card card-primary">
               <div class="card-header">
-                <h3 class="card-title">Create</h3>
+                <h3 class="card-title">Edit</h3>
               </div>
               <!-- /.card-header -->
               <!-- form start -->
@@ -25,19 +26,19 @@
                   </div>
                   <div class="col-md-6 form-group">
                     <label asp-for="Address"> Address</label>
-                          <input name="address" rows= "2" class="form-control" type="text" required>      
+                          <input asp-for="Address" rows= "2" class="form-control" type="text" required>      
                   </div>
                   <div class="col-md-6 form-group">
                     <label asp-for="Age"> Age</label>
-                          <input  id="age" name = "age" class="form-control" type="number" >      
+                          <input  id="age" asp-for="Age" class="form-control" type="number" >      
                   </div>
                   <div class="col-md-6 form-group">
                     <label asp-for="Salary"> Salary</label>
-                          <input name = "salary" class="form-control" type="number" step="1000" >      
+                          <input asp-for="Salary" class="form-control" type="number" step="1000" >      
                   </div>
                 </div>
                 <div class="card-footer">
-                  <button type="submit" class="btn btn-primary">Submit</button>
+                  <button type="submit" class="btn btn-primary">Update</button>
                 </div>
               </form>
             </div>
