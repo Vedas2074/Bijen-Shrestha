@@ -14422,6 +14422,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\EmployeeManagement\\Views\\Employee\\delete.cshtml",
+      "TargetPath": "Views\\Employee\\delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\EmployeeManagement\\Views\\Employee\\Detail.cshtml",
       "TargetPath": "Views\\Employee\\Detail.cshtml",
       "FileKind": "mvc"
@@ -14429,6 +14434,11 @@
     {
       "FilePath": "d:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\EmployeeManagement\\Views\\Department\\Add.cshtml",
       "TargetPath": "Views\\Department\\Add.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\NJB\\files\\csit\\dotnet\\Bijen-Shrestha\\EmployeeManagement\\Views\\Employee\\edit.cshtml",
+      "TargetPath": "Views\\Employee\\edit.cshtml",
       "FileKind": "mvc"
     },
     {

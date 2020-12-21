@@ -55,5 +55,21 @@ namespace EmployeeManagement.Controllers{
             return RedirectToAction("Index");
         }
 
+        [HttpGet]
+        public ActionResult Delete(int Id)
+        {
+            var abcde = db.Employees.Find(Id);
+            return View(abcde);
+        }
+
+
+        [HttpPost]
+        public ActionResult Delete(Employee employee)
+        {
+            db.Employees.Attach(employee);
+            db.Employees.Remove(employee);
+            db.SaveChanges();
+            return RedirectToAction("Index");
+        }
     }
 }

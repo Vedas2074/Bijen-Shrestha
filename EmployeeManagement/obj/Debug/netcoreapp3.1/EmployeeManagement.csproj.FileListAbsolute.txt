@@ -82,3 +82,4 @@ D:\NJB\files\csit\dotnet\Bijen-Shrestha\EmployeeManagement\bin\Debug\netcoreapp3
 D:\NJB\files\csit\dotnet\Bijen-Shrestha\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 D:\NJB\files\csit\dotnet\Bijen-Shrestha\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 D:\NJB\files\csit\dotnet\Bijen-Shrestha\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Employee\edit.cshtml.g.cs
+D:\NJB\files\csit\dotnet\Bijen-Shrestha\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Employee\delete.cshtml.g.cs
